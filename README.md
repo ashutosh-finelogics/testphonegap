@@ -1,0 +1,2 @@
+# testphonegap
+starting phonegap
